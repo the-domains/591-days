@@ -1,7 +1,7 @@
 name: 591 Days
 favicon: null
-layout_spectrum: 0.776361619355157
-typography_spectrum: 0.33472876995801926
+layout_spectrum: 0.50978
+typography_spectrum: 0.75636
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  brandStrength: 0.49650189792737365
-  lightness: 0.46384273981675506
-  saturation: 0.8259058503899723
-  rhythmicContrast: 0.7491714030038565
+    - '#ffffff'
+    - '#2a2730'
+    - '#e24892'
+    - '#21b9d0'
+    - '#feb9fe'
+  brandStrength: 0.5
+  lightness: 0.625
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []

@@ -2,12 +2,13 @@ name: 591 Days
 favicon: null
 layout_spectrum: 0.50978
 typography_spectrum: 0.75636
+title: 591 Days
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-71895836-1
   facebook: null
   twitter: null
 opengraph:
